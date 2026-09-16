@@ -1,0 +1,25 @@
+{
+  "name": "Bank & Insurance Exam Updates",
+  "short_name": "Exam Updates",
+  "description": "Banking and insurance exam updates dashboard.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f8fc",
+  "theme_color": "#063b69",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

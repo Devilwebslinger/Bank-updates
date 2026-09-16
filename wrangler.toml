@@ -1,0 +1,8 @@
+name = "bank-insurance-exam-push"
+main = "src/index.js"
+compatibility_date = "2026-08-04"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "bank-exam-push"
+database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"

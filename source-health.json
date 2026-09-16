@@ -1,0 +1,6 @@
+{
+  "checked_at": null,
+  "status": "not-yet-run",
+  "note": "Run the GitHub Actions workflow 'Update exam alerts' after publishing the repository. The workflow will replace this file with live source health.",
+  "sources": []
+}
